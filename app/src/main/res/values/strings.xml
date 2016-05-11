@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Eğitim Asistanı</string>
+    <string name="giris_yap">Giriş Yap</string>
+    <string name="uye_id">Üye Id</string>
+</resources>
